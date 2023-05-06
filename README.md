@@ -15,7 +15,7 @@ By completing this project I practiced:
 
 ## Usage
 
-You can test the app here: https://manonthemon.github.io/Clock/
+You can test the app here: https://manonthemon.github.io/Dynamic-CSS-with-JS/
 
 ## Copyright
 
